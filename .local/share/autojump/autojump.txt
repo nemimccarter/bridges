@@ -1,0 +1,7 @@
+14.1421356237	/home/nemi2/intel/ism
+164.620776327	/home/nemi2/hw1
+22.360679775	/home/nemi2/hw1/test
+14.1421356237	/home/nemi2/intel/ism/rm
+272.946881277	/home/nemi2/particles
+81.2403840465	/home/nemi2/particles_gpu
+14.1421356237	/home/nemi2/intel

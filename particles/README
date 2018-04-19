@@ -1,0 +1,3 @@
+Make sure that you load the MPI module in your environment before launch MPI jobs.
+
+You can do this by running: 'module load mpi/intel_mvapich'

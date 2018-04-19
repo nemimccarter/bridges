@@ -1,0 +1,11 @@
+#!/bin/bash
+#SBATCH -A cc3uv3p # 2018 XSEDE Applications of Parallel Computing Course Allocation
+#SBATCH -J particle-openmp16
+#SBATCH -o particle-openmp16.stdout
+#SBATCH -n 16         
+#SBATCH -p RM
+#SBATCH -t 00:10:00     
+#SBATCH -N 1        
+
+export OMP_NUM_THREADS=16
+./openmp -n 1000 -o openmp.txt
